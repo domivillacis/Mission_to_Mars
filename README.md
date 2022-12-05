@@ -14,5 +14,7 @@ Finally, we are going to collect data, organise and store it as a data frame, an
 
 ## Resources:
 Software: Python, Jupyter Notebook
+
 HTML, CSS, Splinter and Beautiful Soup
+
 File: Mars_data.csv
